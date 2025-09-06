@@ -33,7 +33,8 @@ Built with **Streamlit**, **LangGraph**, and **Google Gemini AI**, the system is
 
 ## 🏗️ System Architecture
 
-<img width="763" height="333" alt="image" src="https://github.com/user-attachments/assets/87488cbb-b2b1-4dfb-9355-caaace2d0c47" />
+<img width="725" height="359" alt="image" src="https://github.com/user-attachments/assets/c73292df-ee38-4167-9dc3-1a1708ddf454" />
+
 
 ---
 
