@@ -1,0 +1,31 @@
+
+            PATIENT INTAKE FORM
+            
+            Patient Information:
+            Name: jaise
+            Date of Birth: 01/12/2002
+            Email: jaisegeorge02@gmail.com
+            
+            Appointment Details:
+            Doctor: Dr. Smith
+            Date: 2025-09-06
+            Time: 13:00
+            
+            Please complete this form and bring it to your appointment.
+            
+            Medical History:
+            [ ] None
+            [ ] High Blood Pressure
+            [ ] Diabetes
+            [ ] Heart Disease
+            [ ] Other: _________
+            
+            Medications:
+            _________________________________
+            
+            Allergies:
+            _________________________________
+            
+            Signature: _______________________
+            Date: 2025-09-05
+            
